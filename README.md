@@ -8,7 +8,7 @@ _I also practised adding a TEXTAREA and a SUBMIT BUTTOM_
 _**HTML 5** and **CSS3**_
 
 ## You can see it here : 
-[https://codepen.io/eugenia1984/pen/BaLKywB] (https://codepen.io/eugenia1984/pen/BaLKywB)
+**https://codepen.io/eugenia1984/pen/BaLKywB**
 
 ## Please: 🎁
 
