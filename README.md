@@ -1,5 +1,5 @@
 # form_page
-_Whith the **FreeCodeCamp Course** of ** Web Responsive Design** I made a form, including INPUT type: text, email, number, radio, checkbox._
+_Whth the **FreeCodeCamp Course** of **Web Responsive Design** I made a form, including INPUT type: text, email, number, radio, checkbox._
 _I also practised adding a TEXTAREA and a SUBMIT BUTTOM_
 
 
