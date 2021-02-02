@@ -28,13 +28,13 @@ I appreciate your interest in this project
 ESPAÑOL
 
 # form_page
-Con el ** Curso FreeCodeCamp ** de ** Diseño Web Responsive ** hice un formulario, incluyendo el tipo de ENTRADA: texto, correo electrónico, número, radio, casilla de verificación. También practiqué agregando un TEXTAREA y un SUBMIT BUTTOM
+Con el **Curso FreeCodeCamp** de **Diseño Web Responsive** hice un formulario, incluyendo el tipo de ENTRADA: texto, correo electrónico, número, radio, casilla de verificación. También practiqué agregando un TEXTAREA y un SUBMIT BUTTOM
 
 ## Contenido 🚀
 Este Proyecto solo tiene una rama maestra, era un proyecto pequeño por lo que no necesitaba más ramas.
 
 ## Construido con 🛠️
-** HTML 5 ** y ** CSS3 **
+**HTML 5** y **CSS3**
 
 ## Demo 📦
 _Si quieres ver cómo fue este proyecto, puedes hacerlo desde: _
